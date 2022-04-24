@@ -14,4 +14,4 @@ IDE - VS CODE
 
 YouTube Link - https://youtu.be/2lQdrYhPgHo
 
-#java #development #intern #github #oasisinfobyte
+#web #development #intern #github #oasisinfobyte
